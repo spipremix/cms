@@ -4,28 +4,23 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "aa17486637c0f3bde66fa0729af59f81",
+    "content-hash": "34b291f032dd1339edbc8b8f90548708",
     "packages": [
         {
             "name": "spip/ecrire",
-            "version": "dev-master",
+            "version": "3.1.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spipremix/ecrire.git",
-                "reference": "4860b0c872f30b8acb50e5b75ec527d359006997"
+                "reference": "4139ea2c00c1c3baf83c8aa5464c0ec088e865c0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spipremix/ecrire/zipball/4860b0c872f30b8acb50e5b75ec527d359006997",
-                "reference": "4860b0c872f30b8acb50e5b75ec527d359006997",
+                "url": "https://api.github.com/repos/spipremix/ecrire/zipball/4139ea2c00c1c3baf83c8aa5464c0ec088e865c0",
+                "reference": "4139ea2c00c1c3baf83c8aa5464c0ec088e865c0",
                 "shasum": ""
             },
             "type": "spip-ecrire",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "3.3.x-dev"
-                }
-            },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "GPL-3.0-or-later"
@@ -48,28 +43,23 @@
                     "email": "esj@rezo.net"
                 }
             ],
-            "time": "2019-02-06T18:41:24+00:00"
+            "time": "2019-02-06T18:38:20+00:00"
         },
         {
             "name": "spip/prive",
-            "version": "dev-master",
+            "version": "3.1.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spipremix/prive.git",
-                "reference": "ceb860994d3b3485abaa7b0e9c4d62af6444f395"
+                "reference": "8d3f41e98ae0c2fc547d772308613693ddf4e20e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spipremix/prive/zipball/ceb860994d3b3485abaa7b0e9c4d62af6444f395",
-                "reference": "ceb860994d3b3485abaa7b0e9c4d62af6444f395",
+                "url": "https://api.github.com/repos/spipremix/prive/zipball/8d3f41e98ae0c2fc547d772308613693ddf4e20e",
+                "reference": "8d3f41e98ae0c2fc547d772308613693ddf4e20e",
                 "shasum": ""
             },
             "type": "spip-prive",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "3.3.x-dev"
-                }
-            },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "GPL-3.0-or-later"
@@ -92,16 +82,13 @@
                     "email": "esj@rezo.net"
                 }
             ],
-            "time": "2019-02-06T18:30:24+00:00"
+            "time": "2019-02-06T18:29:58+00:00"
         }
     ],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "dev",
-    "stability-flags": {
-        "spip/prive": 20,
-        "spip/ecrire": 20
-    },
+    "minimum-stability": "stable",
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
