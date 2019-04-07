@@ -1,0 +1,28 @@
+{
+    "name": "spip/cms",
+    "type": "metapackage",
+    "license": "GPL-3.0-or-later",
+    "authors": [{
+        "name": "Arnaud Martin",
+        "email": "arno@rezo.net"
+    },{
+        "name": "Antoine Pitrou",
+        "email": "antoine@pitrou.net"
+    },{
+        "name": "Philippe Rivière",
+        "email": "fil@rezo.net"
+    },{
+        "name": "Emmanuel Saint-James",
+        "email": "esj@rezo.net"
+    }],
+    "require": {
+        "spip/prive": "@dev",
+        "spip/ecrire": "@dev"
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.3.x-dev"
+        }
+    }
+}
