@@ -16,13 +16,7 @@
         "email": "esj@rezo.net"
     }],
     "require": {
-        "spip/prive": "@dev",
-        "spip/ecrire": "@dev"
-    },
-    "minimum-stability": "dev",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "3.3.x-dev"
-        }
+        "spip/prive": "^3.2",
+        "spip/ecrire": "^3.2"
     }
 }

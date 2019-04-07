@@ -4,28 +4,23 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "aa17486637c0f3bde66fa0729af59f81",
+    "content-hash": "6926c8aff8837cd86f665b4e548355db",
     "packages": [
         {
             "name": "spip/ecrire",
-            "version": "dev-master",
+            "version": "3.2.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spipremix/ecrire.git",
-                "reference": "4860b0c872f30b8acb50e5b75ec527d359006997"
+                "reference": "9cbef037650325d9c7c6c3101807017aee35ed43"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spipremix/ecrire/zipball/4860b0c872f30b8acb50e5b75ec527d359006997",
-                "reference": "4860b0c872f30b8acb50e5b75ec527d359006997",
+                "url": "https://api.github.com/repos/spipremix/ecrire/zipball/9cbef037650325d9c7c6c3101807017aee35ed43",
+                "reference": "9cbef037650325d9c7c6c3101807017aee35ed43",
                 "shasum": ""
             },
             "type": "spip-ecrire",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "3.3.x-dev"
-                }
-            },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "GPL-3.0-or-later"
@@ -52,24 +47,19 @@
         },
         {
             "name": "spip/prive",
-            "version": "dev-master",
+            "version": "3.2.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spipremix/prive.git",
-                "reference": "ceb860994d3b3485abaa7b0e9c4d62af6444f395"
+                "reference": "65264dbce61a9f6a4494027ec27501f67880b9dd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spipremix/prive/zipball/ceb860994d3b3485abaa7b0e9c4d62af6444f395",
-                "reference": "ceb860994d3b3485abaa7b0e9c4d62af6444f395",
+                "url": "https://api.github.com/repos/spipremix/prive/zipball/65264dbce61a9f6a4494027ec27501f67880b9dd",
+                "reference": "65264dbce61a9f6a4494027ec27501f67880b9dd",
                 "shasum": ""
             },
             "type": "spip-prive",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "3.3.x-dev"
-                }
-            },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "GPL-3.0-or-later"
@@ -97,11 +87,8 @@
     ],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "dev",
-    "stability-flags": {
-        "spip/prive": 20,
-        "spip/ecrire": 20
-    },
+    "minimum-stability": "stable",
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
