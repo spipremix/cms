@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/spipremix/ecrire.git",
-                "reference": "4139ea2c00c1c3baf83c8aa5464c0ec088e865c0"
+                "reference": "53b49f0fca159b5bf1e2733bfddcfd9cf4f419c2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spipremix/ecrire/zipball/4139ea2c00c1c3baf83c8aa5464c0ec088e865c0",
-                "reference": "4139ea2c00c1c3baf83c8aa5464c0ec088e865c0",
+                "url": "https://api.github.com/repos/spipremix/ecrire/zipball/53b49f0fca159b5bf1e2733bfddcfd9cf4f419c2",
+                "reference": "53b49f0fca159b5bf1e2733bfddcfd9cf4f419c2",
                 "shasum": ""
             },
             "type": "spip-ecrire",
@@ -43,7 +43,7 @@
                     "email": "esj@rezo.net"
                 }
             ],
-            "time": "2019-02-06T18:38:20+00:00"
+            "time": "2019-05-08T18:09:10+00:00"
         },
         {
             "name": "spip/prive",
