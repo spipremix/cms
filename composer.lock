@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/spipremix/ecrire.git",
-                "reference": "4860b0c872f30b8acb50e5b75ec527d359006997"
+                "reference": "82116854536d50b9cf3bd840ed60b0f0b7e10391"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spipremix/ecrire/zipball/4860b0c872f30b8acb50e5b75ec527d359006997",
-                "reference": "4860b0c872f30b8acb50e5b75ec527d359006997",
+                "url": "https://api.github.com/repos/spipremix/ecrire/zipball/82116854536d50b9cf3bd840ed60b0f0b7e10391",
+                "reference": "82116854536d50b9cf3bd840ed60b0f0b7e10391",
                 "shasum": ""
             },
             "type": "spip-ecrire",
@@ -48,7 +48,7 @@
                     "email": "esj@rezo.net"
                 }
             ],
-            "time": "2019-02-06T18:41:24+00:00"
+            "time": "2019-05-08T18:11:35+00:00"
         },
         {
             "name": "spip/prive",
@@ -56,12 +56,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/spipremix/prive.git",
-                "reference": "ceb860994d3b3485abaa7b0e9c4d62af6444f395"
+                "reference": "1bd469fbc4368ef18386f1366c4055c637f0f519"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spipremix/prive/zipball/ceb860994d3b3485abaa7b0e9c4d62af6444f395",
-                "reference": "ceb860994d3b3485abaa7b0e9c4d62af6444f395",
+                "url": "https://api.github.com/repos/spipremix/prive/zipball/1bd469fbc4368ef18386f1366c4055c637f0f519",
+                "reference": "1bd469fbc4368ef18386f1366c4055c637f0f519",
                 "shasum": ""
             },
             "type": "spip-prive",
@@ -92,7 +92,7 @@
                     "email": "esj@rezo.net"
                 }
             ],
-            "time": "2019-02-06T18:30:24+00:00"
+            "time": "2019-05-08T18:05:20+00:00"
         }
     ],
     "packages-dev": [],
